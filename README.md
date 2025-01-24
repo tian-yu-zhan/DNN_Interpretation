@@ -1,4 +1,4 @@
-This is a help file for the R code accompanying a paper with the title “A general, flexible and harmonious framework to construct interpretable functions in regression analysis”.
+The R code accompanying a paper with the title “A general, flexible and harmonious framework to construct interpretable functions in regression analysis”.
 
 1. The folder “1_Sim_1” is for Section 4.1. The R code, generated results, and the plot are saved in this folder.
 2. The folder “2_Sim_2” is for Section 4.2. An additional R code “Int_sim_2_GNG_plot” is available to generate plots based on simulated results.
